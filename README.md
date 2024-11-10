@@ -49,3 +49,10 @@ abx-chat is a simple chatbot built with PyTorch and Flask. This project integrat
 If you want to retrain the model with new intents, you can update `intents.json` and then run:
 ```bash
 python train.py
+```
+
+## Chat with the Model
+
+If you want to chat with the model in the terminal, you can run:
+```bash
+python chat.py
